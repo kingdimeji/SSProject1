@@ -1,0 +1,33 @@
+Body { height: 100% }
+
+h1{
+    font: bold 64px work sans, open sans;
+    letter-spacing: -2%;
+    text-align: center;
+}
+
+h2{
+    font: bold 40px work sans, open sans;
+    letter-spacing: -2%;
+    text-align: center;
+}
+
+h3{
+    font: bold 24px work sans, open sans;
+    letter-spacing: -2%;
+}
+
+h4{
+    font: bold 20px work sans, open sans;
+    letter-spacing: -2%;
+}
+
+.bdtext{
+    font: 16px work sans, open sans;
+    letter-spacing: -2%;
+}
+
+.sttext{
+    font: italic 12px work sans, open sans;
+    letter-spacing: -2%;
+}
